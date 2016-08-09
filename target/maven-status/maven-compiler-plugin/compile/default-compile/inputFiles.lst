@@ -1,0 +1,7 @@
+/predix/git/predix-jpa-cf/src/main/java/com/ge/predix/labs/data/jpa/web/CustomerApiController.java
+/predix/git/predix-jpa-cf/src/main/java/com/ge/predix/labs/data/jpa/config/CloudFoundryDataSourceConfiguration.java
+/predix/git/predix-jpa-cf/src/main/java/com/ge/predix/labs/data/jpa/config/ServicesConfiguration.java
+/predix/git/predix-jpa-cf/src/main/java/com/ge/predix/labs/data/jpa/domain/Customer.java
+/predix/git/predix-jpa-cf/src/main/java/com/ge/predix/labs/data/jpa/service/CustomerService.java
+/predix/git/predix-jpa-cf/src/main/java/com/ge/predix/labs/data/jpa/Application.java
+/predix/git/predix-jpa-cf/src/main/java/com/ge/predix/labs/data/jpa/web/CacheController.java

@@ -1,0 +1,8 @@
+---
+applications:
+  - name: predix_jpa_sv
+    buildpack: java_buildpack
+    path: target/predix-jpa-cf-1.0.0.jar
+services:
+    - Team34-postgres
+    - bsldigital-Team34-redis 
